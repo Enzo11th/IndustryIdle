@@ -113,7 +113,7 @@ export const PT_BR = {
     SantaFactory: "Fábrica de Papai Noel",
     Santa: "Papai Noel",
     Car: "Carro",
-    CarFactory: "Fábrica de Carros",
+    CarFactory: "Montadora de carros",
     Ship: "Navio",
     SolarPanel: "Painel Solar",
     SolarPanelDesc:
